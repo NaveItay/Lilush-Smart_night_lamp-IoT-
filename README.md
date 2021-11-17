@@ -1,9 +1,7 @@
 # Lilush - Smart Night Lamp (IoT)
 Lilush is a smart night lamp controlled by mobile app (Firebase real-time database).
 
-# Real-Time IoT project: Temperature, humidity sensors, and motor control by mobile app (Android+iOS)
-
-![alt text](/github_images/Real_time_IOT_project.PNG)
+![alt text](/github_images/Example.jpeg)
 
 <p>
 <br />
