@@ -19,12 +19,25 @@ Lilush is a smart night lamp controlled by mobile app (Firebase real-time databa
 #
 ###### Lamp Modes
 
-![alt text](/github_images/BlueMode.jpeg)
-![alt text](/github_images/RedMode.jpeg)
+BlueMode
+<img src="/github_images/BlueMode.jpeg" 
+     width="450" 
+     height="700" />
+     
+RedMode
+<img src="/github_images/RedMode.jpeg" 
+     width="450" 
+     height="700" />
+
 <p>
 <br />
 </p>
-![alt text](/github_images/LightBlue-snakeMode.jpeg)
+
+LightBlue-snakeMode
+<img src="/github_images/LightBlue-snakeMode.jpeg" 
+     width="450" 
+     height="700" />
+
 ![alt text](/github_images/RainbowMode.jpeg)
 <p>
 <br />
