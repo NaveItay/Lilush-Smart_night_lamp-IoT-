@@ -1,9 +1,6 @@
 # Lilush - Smart Night Lamp (IoT)
 Lilush is a smart night lamp controlled by mobile app (Firebase real-time database).
 
-<img src="/github_images/Example.jpeg" 
-     width="450" 
-     height="700" />
 <img src="/github_images/components.PNG" 
      width="450" 
      height="700" />
@@ -79,6 +76,10 @@ Lilush is a smart night lamp controlled by mobile app (Firebase real-time databa
 <p>
 <br />
 </p>
+
+<img src="/github_images/Example.jpeg" 
+     width="450" 
+     height="700" />
 
 
 
