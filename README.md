@@ -17,14 +17,14 @@ Lilush is a smart night lamp controlled by mobile app (Firebase real-time databa
   ![alt text](/github_images/SecretPage.PNG)
   
 #
-###### Lamp Modes
+##### Lamp Modes
 
-BlueMode
+###### BlueMode
 <img src="/github_images/BlueMode.jpeg" 
      width="450" 
      height="700" />
      
-RedMode
+###### RedMode
 <img src="/github_images/RedMode.jpeg" 
      width="450" 
      height="700" />
@@ -33,19 +33,47 @@ RedMode
 <br />
 </p>
 
-LightBlue-snakeMode
+###### LightBlue-snakeMode
 <img src="/github_images/LightBlue-snakeMode.jpeg" 
      width="450" 
      height="700" />
 
-![alt text](/github_images/RainbowMode.jpeg)
+###### RainbowMode
+<img src="/github_images/RainbowMode.jpeg" 
+     width="450" 
+     height="700" />
+
 <p>
 <br />
 </p>
-![alt text](/github_images/ColorsPartyMode.jpeg)
-![alt text](/github_images/SnowMode.jpeg)
+
+###### ColorsPartyMode
+<img src="/github_images/ColorsPartyMode.jpeg" 
+     width="450" 
+     height="700" />
+
+###### ColorsPartyMode
+<img src="/github_images/SnowMode.jpeg" 
+     width="450" 
+     height="700" />
+
 <p>
 <br />
 </p>
-![alt text](/github_images/WhiteMode.jpeg)
-![alt text](/github_images/LoveMode.jpeg)
+
+###### WhiteMode
+<img src="/github_images/WhiteMode.jpeg" 
+     width="450" 
+     height="700" />
+
+###### LoveMode
+<img src="/github_images/LoveMode.jpeg" 
+     width="450" 
+     height="700" />
+     
+<p>
+<br />
+</p>
+
+
+
