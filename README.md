@@ -2,8 +2,8 @@
 Lilush is a smart night lamp controlled by mobile app (Firebase real-time database).
 
 <img src="/github_images/Example.jpeg" 
-     width="500" 
-     height="1000" />
+     width="450" 
+     height="700" />
 
 <p>
 <br />
