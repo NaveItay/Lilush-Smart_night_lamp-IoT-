@@ -68,7 +68,7 @@ Lilush is a smart night lamp controlled by mobile app (Firebase real-time databa
      height="700" />
 
 ###### LoveMode
-<!-- <img src="/github_images/LoveMode.jpeg" 
+<!-- <img src="/github_images/LoveקMode.jpeg" 
      width="450" 
      height="700" /> -->
      
